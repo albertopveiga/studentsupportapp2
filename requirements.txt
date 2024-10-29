@@ -3,3 +3,4 @@ gunicorn
 celery
 django-environ>=0.9.0
 django-webpack-loader
+psycopg2-binary
